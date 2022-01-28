@@ -1,7 +1,7 @@
 'use strict';
 
 const WorkerPool = require('workerpool');
-const Utilities = require('../2-utilities');
+const Utilities = require('../utility.js');
 
 // MIDDLEWARE FUNCTIONS
 const bcryptHash = (password) => {
