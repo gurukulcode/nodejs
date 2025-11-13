@@ -1,0 +1,119 @@
+# Problem #134: Real-time Chat Application
+
+**Difficulty**: 🟠 Hard
+**Topic Tags**: `#websockets #realtime #socket-io`
+
+---
+
+## 📋 Problem Statement
+
+**Real-time Chat Application**
+
+Implement a solution for: **Real-time Chat Application**
+
+**Requirements**:
+1. Understand the concept thoroughly
+2. Implement working code solution
+3. Handle edge cases and errors
+4. Follow best practices
+
+---
+
+## 💡 Solution
+
+### Approach
+
+[Detailed approach and explanation for Real-time Chat Application]
+
+### Code Implementation
+
+```javascript
+// solution-134.js
+// Real-time Chat Application
+
+// TODO: Implementation
+
+console.log('Problem #134: Real-time Chat Application');
+```
+
+### Example Usage
+
+```javascript
+// example-134.js
+// Example demonstrating Real-time Chat Application
+```
+
+---
+
+## 🎯 Key Concepts
+
+- Concept 1 related to Real-time Chat Application
+- Concept 2 related to Real-time Chat Application
+- Concept 3 related to Real-time Chat Application
+
+---
+
+## ❓ Interview Questions
+
+**Q1**: What is the main concept behind Real-time Chat Application?
+```
+A: [Answer here]
+```
+
+**Q2**: When should you use this approach?
+```
+A: [Answer here]
+```
+
+**Q3**: What are the trade-offs?
+```
+A: [Answer here]
+```
+
+---
+
+## 🚫 Common Mistakes
+
+1. ❌ Common mistake 1
+2. ❌ Common mistake 2
+3. ❌ Common mistake 3
+
+---
+
+## ✅ Best Practices
+
+1. ✅ Best practice 1
+2. ✅ Best practice 2
+3. ✅ Best practice 3
+
+---
+
+## 📊 Performance Considerations
+
+- Performance aspect 1
+- Performance aspect 2
+- Time/Space complexity notes
+
+---
+
+## 🔗 Related Problems
+
+- Related problem 1
+- Related problem 2
+
+---
+
+## 📚 Further Reading
+
+- [Node.js Official Docs](https://nodejs.org/docs/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Relevant article or tutorial]
+
+---
+
+**Estimated Time**: 30-45 minutes
+**Difficulty**: 🟠 Hard
+
+---
+
+*Problem #134 of 210 - Node.js Interview Problems*
